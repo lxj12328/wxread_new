@@ -1,4 +1,4 @@
-# 刷时间不加时长，是因为最近微信读书又缩紧限制了，需要更新或重新fork配置 ！！！
+# 刷时间不加时长，是因为最近微信读书又缩紧限制了，需要更新或重新fork配置 ！！！ forked from [findmover/wxread](https://github.com/findmover/wxread)
 
 ## 项目介绍 📚
 
