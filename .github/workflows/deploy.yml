@@ -30,7 +30,7 @@ jobs:
 
     # 2. 更新 Actions 版本以获得更好的性能和安全性
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2
